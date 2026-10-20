@@ -1,7 +1,8 @@
 # Festival de Música · Landing page responsive
 
 > **Proyecto de formación.** Ejercicio del curso *Desarrollo Web Completo* de
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> que hice como formación profesional para mi trabajo.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
@@ -69,7 +70,8 @@ Ejercicio del curso *Desarrollo Web Completo* de Juan Pablo De la Torre Valdez
 # Music Festival · Responsive landing page
 
 > **Learning project.** Exercise from the *Desarrollo Web Completo* course by
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> taken as professional training for my job.
 
 **Demo:** <https://ricardo-mendez-saoprojects.github.io/FestivalMusica/>
 
